@@ -2,7 +2,7 @@
 
 Journal App is an android application that allows to store information entries (Diary), then to edit them and delete them .. The application require a google account
 for the connection.  
-executable: JournAlApp.apk
+executable: JournalApp.apk
 
 prerequis : to lauching apk : android device or emulator (sytem with API 16 or higher), have a google account, 
 To run the code, download the repositorie and import them on  Android studio
